@@ -25,8 +25,7 @@ This project provides a real-time ransomware detection system based on file beha
 ransomware-detector/
 │
 ├── dataset/                  # Contains benign & ransomware files
-│   ├── benign/
-│   └── ransomware/
+│   ├── simulated_dataset.csv # Generated darasets CSVs
 │
 ├── features/                 # Extracted features CSVs
 │   └── extracted_features.csv
